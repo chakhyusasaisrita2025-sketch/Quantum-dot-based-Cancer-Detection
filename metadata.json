@@ -1,0 +1,5 @@
+{
+  "name": "NanoHeal: HER2 Quantum Dot Simulator",
+  "description": "A scientific simulation tool for HER2 breast cancer detection and treatment using antibody-conjugated quantum dots, featuring quantum confinement modeling and drug delivery kinetics.",
+  "requestFramePermissions": []
+}
